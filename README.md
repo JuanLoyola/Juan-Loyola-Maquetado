@@ -2,12 +2,9 @@
 Test de maquetado 23/12/2020
 
 # Herramientas 
-* Visual Studio Code
 * HTML5
 * CSS3
 * Javascript
-* Git
-* Github
 
 # Files
 Cada archivo fue acomodado de manera prolija para realizar este test.
